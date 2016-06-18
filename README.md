@@ -1,3 +1,4 @@
+![Zero Grid](https://avatars2.githubusercontent.com/u/19535810?v=3&s=200)
 # ZeroGrid-ile-Yapilan-Projeler
 Zero Grid İle Yapılan Projelerin listelendiği bir repository dir. :D
 
